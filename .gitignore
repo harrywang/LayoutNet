@@ -127,3 +127,13 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+# dataset large file
+/dataset
+*.tfrecords
+
+.DS_Store
+
+# sample and validation folder
+/sample
+/validation
